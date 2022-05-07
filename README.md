@@ -1,2 +1,2 @@
 # CS
-Currently learning C# 
+Currently learning C#, this is what I am working on so far.
